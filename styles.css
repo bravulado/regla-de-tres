@@ -54,10 +54,4 @@
 	}
 
 	
-@keyframes fadeIn {
-	from { opacity: 0;/*inicia invisible*/
-	   transform: translateY(20px); } /* Empieza 20px más abajo */
-	to { opacity: 1;/*termina visible*/
-	   transform: translateY(0); } /* Vuelve a su posición original */
-  }/*animacion css*/
   
